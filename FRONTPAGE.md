@@ -16,6 +16,6 @@ Dyno also has its drawbacks but it is proven to be a better bot than carl not on
 
 ### Contribution
 
-If you’d like to contribute to this project or know of a better alternative kindly join the Alternatives to Carl discord server or send a DM to Daksh#0001. If you’d like to support the project kindly consider starring the repo on GitHub and sharing the project to help spread awareness ⭐
+If you’d like to contribute to this project or know of a better alternative kindly join the Alternatives to Carl-bot discord server or send a DM to Daksh#0001. If you’d like to support the project kindly consider starring the repo on GitHub and sharing the project to help spread awareness ⭐
 
 _The project was inspired by_ [_alternativestomee6.com_](https://alternativestomee6.com)_. We are not affiliated with Discord nor sponsored by any bots mentioned in this list._
