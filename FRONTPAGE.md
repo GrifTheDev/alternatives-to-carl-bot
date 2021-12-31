@@ -6,6 +6,8 @@ description: >-
 
 # No More Carl-bot
 
+### The Aim&#x20;
+
 ### Overview
 
 We hope you’ve found this resource helpful and has saved your time from finding better bots than carl. Our suggestion is you take 2 or 3 bots that cover majority of what carl bot could do. A combination of Dyno, atlas or robot along with other bots should have you covered and replace carl completely.

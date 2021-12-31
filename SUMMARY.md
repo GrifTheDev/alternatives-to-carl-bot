@@ -1,6 +1,6 @@
 # Table of contents
 
-* [No More Carl-bot](README.md)
+* [No More Carl-bot](FRONTPAGE.md)
 
 ## Core
 
