@@ -10,9 +10,7 @@ description: >-
 
 ### Overview
 
-We hope you’ve found this resource helpful and that it has saved your time trying to find better bots than carl. Our suggestion is that you take 2 or 3 bots that cover the majority of what carl could do. A combination of Dyno, Atlas or Robot along with other bots should have you covered and replace carl completely.
-
-Dyno also has its drawbacks but it is proven to be a better bot than carl, not only in terms of features, but also in terms of development, updates and uptime.
+We hope you’ve found this resource helpful and that it has saved your time trying to find better bots than carl. Our suggestion is that you take 2 or 3 bots that cover the majority of what carl could do. A combination of Dyno, Atlas or Robot along with other bots should have you covered and replace carl completely. Check out the rest of the wiki, to find out more about these bots.
 
 ### Contribution
 
