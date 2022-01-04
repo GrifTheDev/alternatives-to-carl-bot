@@ -26,7 +26,6 @@
   * [Autofeeds](core/miscellaneous/autofeeds.md)
   * [Feeds](core/miscellaneous/feeds.md)
   * [Reminders](core/miscellaneous/reminders.md)
-  * [Fun](core/miscellaneous/fun.md)
 
 ## Free Premium Alternatives
 

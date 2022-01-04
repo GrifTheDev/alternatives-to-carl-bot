@@ -1,3 +1,0 @@
-# Fun
-
-## Coming soon :warning:
