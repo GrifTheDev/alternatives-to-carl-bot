@@ -12,7 +12,7 @@ description: >-
 
 We hope you’ve found this resource helpful and that it has saved your time trying to find better bots than carl. Our suggestion is that you take 2 or 3 bots that cover the majority of what carl could do. A combination of Dyno, Atlas or Robot along with other bots should have you covered and replace carl completely. Check out the rest of the wiki, to find out more about these bots.
 
-### Contribution
+### Contributing
 
 If you’d like to contribute to this project or know of a better alternative, kindly join the Alternatives to Carl-bot discord server or send a DM to Daksh#0001. If you’d like to support the project consider starring the repo on GitHub and sharing the project to help spread it around ⭐.
 
