@@ -10,7 +10,9 @@ description: >-
 
 ### Overview
 
-We hope you’ve found this resource helpful and that it has saved your time trying to find better bots than carl. Our suggestion is that you take 2 or 3 bots that cover the majority of what carl could do. A combination of Dyno, Atlas or Robot along with other bots should have you covered and replace carl completely. Check out the rest of the wiki, to find out more about these bots.
+Carl bot is a great bot, rather was a great bot. The bot has been one of the most popular in the last 2 years through out 2020 and 2021. However, the bot has lacked being updated, unable to offer some key features that discord has made available. The bot does not support buttons nor dropdowns, the bot written in discord.py which is no longer being maintained, the bot does not support threads at all, nor does it support slash commands.
+
+Again the bot is still viable, but it shouldn't be your primary bot if you're managing large servers where the bot's functionality is critical. The bot also has a list of bugs which are yet to be fixed which have been there for almost 2 years. You can see the list of bugs and their progress states here: https://trello.com/b/CkHAU9i5/carlbot-development. A point to note is that not all the bugs reported are even on the trello board. However a handful bugs have been fixed but not what you'd expect from a bot like that.
 
 ### Contributing
 
